@@ -1,3 +1,4 @@
+package Modulo;
 public class Cores {
     public int R;
     public int G;
