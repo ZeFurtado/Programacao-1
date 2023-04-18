@@ -10,7 +10,5 @@ public class Main {
         cc2 = new ContaCorrente("Osvaldir teixeira", 15, 2500.00);
 
         ContaCorrente cc3 = new ContaCorrente();
-
-
     }
 }
